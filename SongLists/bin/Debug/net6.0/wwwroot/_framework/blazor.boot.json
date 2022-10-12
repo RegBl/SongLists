@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-MnMyZHtcymf0sLxXeFBbQZVsdNdxT0GXJaa9t3ZdSek=",
       "netstandard.dll": "sha256-+SGdnDhVMiZ9hq0EsYwJ+mcK0odf3bAtXnSKLorGDCs=",
       "System.Private.CoreLib.dll": "sha256-mqfalNg3wC8XHlyA+j5ioNcnc0kt4prNudKdyJoaYaU=",
-      "SongLists.dll": "sha256-XopxGJekAkxWSeEiwgH\/KGCK0\/gt8yzSBvFNOv0ixUM="
+      "SongLists.dll": "sha256-HJfR7ZV8szJ7LA7T+rVlS3DxsSu1k19rpzCre7MaMnA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SongLists.pdb": "sha256-irux6ZOBs+4v11zbReCcEpPoB21ScyIYE5CRslkeZtg="
+      "SongLists.pdb": "sha256-fdQ1Q\/jOAbX6qIUIw8QBw42dNvjHW+o+fNeNxen9F7w="
     },
     "runtime": {
       "dotnet.6.0.9.3t0lsy39rx.js": "sha256-Azk5sbYFVo84h8NpIst9roIPGLH2y8ewQ9SY\/sUHvgs=",
