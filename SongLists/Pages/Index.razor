@@ -10,4 +10,58 @@ Create lists for practice, performance, or just for fun.
 
 <h2>Your Song Lists</h2>
 
+<ul>
+    @foreach(var list in songLists)
+    {
+        <li>
+            @list.Title
+        </li>
+    }
+</ul>
+
 <h2>Your Songs</h2>
+
+@code
+{
+    private static Song whatsUp = new()
+    {
+        Title = "What's Up"
+    };
+    private static Song imAfraidOfAmericans = new()
+    {
+        Title = "I'm Afraid of Americans"
+    };
+    private static Song summertime = new()
+    {
+        Title = "Summertime"
+    };
+    private static Song itAintNecessarilySo = new()
+    {
+        Title = "It Ain't Necessarily So"
+    };
+    
+    private static SongList firstSongList = new()
+    {
+        Title = "Birthday Party",
+        Songs = new()
+        {
+            imAfraidOfAmericans,
+            whatsUp,
+            summertime
+        }
+    };
+    private static SongList secondSongList = new()
+    {
+        Title = "Porgy and Bess",
+        Songs = new()
+        {
+            summertime,
+            itAintNecessarilySo
+        }
+    };
+    private List<SongList> songLists = new()
+    {
+        firstSongList,
+        secondSongList
+    };
+}
