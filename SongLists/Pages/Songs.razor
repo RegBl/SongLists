@@ -4,6 +4,42 @@
 
 <h3>Songs</h3>
 
+<ul>
+    @foreach (var song in moreSongs.Songs)
+    {
+        <li>
+            @song.Title
+        </li>
+    }
+</ul>
+
+<input placeholder="A Song" @bind="songTitle">
+<button @onclick="addSong">Add Song</button>
+
 @code {
-    
+    private SongList moreSongs = new()
+    {
+        Songs = new()
+        {
+            new Song
+            {
+                Title = "Bad"
+            },
+            new Song
+            {
+                Title = "What's Up?"
+            }
+        }
+    };
+    private string? songTitle;
+
+    private void addSong()
+    {
+        if (!string.IsNullOrEmpty(songTitle))
+        {
+            moreSongs.Songs.Add(new Song { Title = songTitle });
+            songTitle = string.Empty;
+        }
+    }
+
 }
