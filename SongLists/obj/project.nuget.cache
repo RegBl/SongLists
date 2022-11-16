@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6Zgb2Ij8ohlEhPVVHaVGAF1VUDXGAvdgXmJmpW20YixuB883j4e2xPbdxagc7uMljOBMOHWDNunn/AZ5IrzG1g==",
+  "dgSpecHash": "p7fLaFyQpyEbqu0YtWvPx1JpNfqReJ0EqDeov+CppFEcyy6PUsbJ/O6DQMgbxoSSDn8KzKQ/+PYzu2Kx7NkT/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\SongLists.csproj",
   "expectedPackageFiles": [
@@ -30,9 +30,10 @@
     "C:\\Users\\sonof\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.9\\microsoft.jsinterop.webassembly.6.0.9.nupkg.sha512",
     "C:\\Users\\sonof\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\sonof\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\sonof\\.nuget\\packages\\system.net.http.json\\7.0.0\\system.net.http.json.7.0.0.nupkg.sha512",
     "C:\\Users\\sonof\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\sonof\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\sonof\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\sonof\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sonof\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\sonof\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.9\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.9.nupkg.sha512"
   ],
   "logs": []

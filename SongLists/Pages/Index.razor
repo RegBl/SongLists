@@ -4,9 +4,12 @@
 
 <h1>Song Lists</h1>
 
-Manage your songs and song lists.
+<p>Manage your songs and song lists.</p>
 
-Create lists for practice, performance, or just for fun.
+<p>Create lists for practice, performance, or just for fun.</p>
+
+<input @bind="searchString" type="text" placeholder="Search" />
+<button @onclick="Search">Search</button>
 
 <h2>Your Song Lists</h2>
 
@@ -21,8 +24,19 @@ Create lists for practice, performance, or just for fun.
 
 <h2>Your Songs</h2>
 
+<ul>
+    @foreach(var song in masterSongList.Songs)
+    {
+        <li>
+            @song.Title
+        </li>
+    }
+</ul>
+
 @code
 {
+    private string? searchString;
+    
     private static Song whatsUp = new()
     {
         Title = "What's Up"
@@ -40,6 +54,18 @@ Create lists for practice, performance, or just for fun.
         Title = "It Ain't Necessarily So"
     };
     
+    private static SongList masterSongList = new()
+    {
+        Title = "Master Song List",
+        Songs = new()
+        {
+            whatsUp,
+            imAfraidOfAmericans,
+            summertime,
+            itAintNecessarilySo
+        }
+    };
+
     private static SongList firstSongList = new()
     {
         Title = "Birthday Party",
@@ -61,7 +87,13 @@ Create lists for practice, performance, or just for fun.
     };
     private List<SongList> songLists = new()
     {
+        masterSongList,
         firstSongList,
         secondSongList
     };
+    
+    private void Search()
+    {
+        return;
+    }
 }

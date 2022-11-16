@@ -686,7 +686,6 @@ C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\n1Wbs
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\BumTtisR.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\6dgzKLV2.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\+J0rMYhf.gz
-C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\NVPRNiGr.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\lbrKaMJZ.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\8YN2O0U7.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\p4UPPywh.gz
@@ -758,8 +757,6 @@ C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\zlJPk
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\P1BaE9CK.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\ZOhJeoAI.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\XVjZFRRU.gz
-C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\FJeYOS+8.gz
-C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\fg0dZg+5.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\LVhNH2kT.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\ozjy2RFT.gz
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\aisuxBzm.gz
@@ -813,3 +810,6 @@ C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\SongLists.dll
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\refint\SongLists.dll
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\SongLists.pdb
 C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\ref\SongLists.dll
+C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\W7MIZBK3.gz
+C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\nR14USWD.gz
+C:\Users\sonof\RiderProjects\SongLists\SongLists\obj\Debug\net6.0\build-gz\gLMekS3v.gz

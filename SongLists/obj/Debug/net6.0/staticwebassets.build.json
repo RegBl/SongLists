@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lGHd5cnvIS7yWnKqW6ERTP0jnVdHhDBn/nbqKjlyKXs=",
+  "Hash": "PRLugmpJeAVX1WuI1GU8NproA0wbjVTYjB0zYkj+Thc=",
   "Source": "SongLists",
   "BasePath": "/",
   "Mode": "Root",
@@ -1731,7 +1731,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sonof\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.9\\runtimes\\browser-wasm\\lib\\net6.0\\System.Net.Http.Json.dll"
+      "OriginalItemSpec": "C:\\Users\\sonof\\.nuget\\packages\\system.net.http.json\\7.0.0\\lib\\net6.0\\System.Net.Http.Json.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.HttpListener.dll",
@@ -2938,7 +2938,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sonof\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.9\\runtimes\\browser-wasm\\lib\\net6.0\\System.Text.Encodings.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\sonof\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\runtimes\\browser\\lib\\net6.0\\System.Text.Encodings.Web.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll",
@@ -2955,7 +2955,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sonof\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.9\\runtimes\\browser-wasm\\lib\\net6.0\\System.Text.Json.dll"
+      "OriginalItemSpec": "C:\\Users\\sonof\\.nuget\\packages\\system.text.json\\7.0.0\\lib\\net6.0\\System.Text.Json.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.RegularExpressions.dll",
@@ -4369,23 +4369,6 @@
       "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.dll"
     },
     {
-      "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\fg0dZg+5.gz",
-      "SourceId": "SongLists",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Text.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll"
-    },
-    {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\fgxtdNIb.gz",
       "SourceId": "SongLists",
       "SourceType": "Computed",
@@ -4401,23 +4384,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Handles.dll"
-    },
-    {
-      "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\FJeYOS+8.gz",
-      "SourceId": "SongLists",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Text.Encodings.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\fqJCuLEY.gz",
@@ -4520,6 +4486,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\gLMekS3v.gz",
+      "SourceId": "SongLists",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Text.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\gSJLWfp0.gz",
@@ -5457,6 +5440,23 @@
       "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tools.dll"
     },
     {
+      "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\nR14USWD.gz",
+      "SourceId": "SongLists",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Text.Encodings.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll"
+    },
+    {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\nToNnRC3.gz",
       "SourceId": "SongLists",
       "SourceType": "Computed",
@@ -5472,23 +5472,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.dll"
-    },
-    {
-      "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\NVPRNiGr.gz",
-      "SourceId": "SongLists",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Net.Http.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.Json.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\o7PTnpQf.gz",
@@ -6322,6 +6305,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.ThreadPool.dll"
+    },
+    {
+      "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\W7MIZBK3.gz",
+      "SourceId": "SongLists",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Net.Http.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.Json.dll"
     },
     {
       "Identity": "C:\\Users\\sonof\\RiderProjects\\SongLists\\SongLists\\obj\\Debug\\net6.0\\build-gz\\w9PXbzQ8.gz",
